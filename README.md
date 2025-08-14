@@ -1,2 +1,0 @@
-# CompanyProfiel
-Belajar GIT (Sync)
